@@ -1,0 +1,87 @@
+.br {
+    width: 80%;
+    margin: auto;
+}
+
+.me-5 {
+    border-radius: 30px;
+}
+
+.style-1 {
+    text-align: center;
+}
+
+
+.order-form .container {
+    color: #4c4c4c;
+    padding: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+}
+
+.order-form-label {
+    margin: 8px 0 0 0;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.order-form-input {
+    width: 100%;
+    padding: 8px 8px;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-radius: 3px !important;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.2em;
+    background-color: transparent;
+    border-color: #cccccc;
+}
+
+.btn-submit:hover {
+    background-color: #090909 !important;
+}
+
+
+.Toastify__toast--success {
+    border: 1px solid #3A9EA5 !important;
+    border-radius: 10px !important;
+    background: #F0F9FA !important;
+  }
+  
+  .Toastify__toast--success::before {
+    position:relative; 
+    z-index:100000;
+    left:12px;
+    top:6px;
+  }
+  
+  .Toastify__toast--success::after {
+    position: absolute;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 700;
+    left:265px;
+    padding-top: 14px !important;
+  }
+
+.props{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.burgerImg{
+    width: 300px;
+    border-radius: 30px;
+}
+
+.bg{
+    background-color: #222831;
+    color: #ffffff;
+    padding: 75px 0 40px 0;
+    text-align: center;
+}

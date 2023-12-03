@@ -1,0 +1,39 @@
+
+
+.me-5{
+    border-radius: 30px;
+}
+.style-1{
+    text-align: center;
+}
+
+.style-1:hover{
+    cursor: pointer;
+}
+.text-warning{
+    letter-spacing: 3px;
+}
+
+
+
+.test{
+    font-size: 25px;
+    font-family: 'Cinzel', serif;
+}
+
+.display{
+    font-family: 'Cinzel', serif;
+}
+
+.bg{
+    background-color: #222831;
+    color: #ffffff;
+    padding: 75px 0 40px 0;
+    text-align: center;
+}
+
+.burgerImg{
+    width: 300px;
+    border-radius: 30px;
+}
+

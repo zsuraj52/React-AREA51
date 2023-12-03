@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+
+.storyTitle{
+    font-size: 45px;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.story{
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.bg-darks{
+    background-color: #222831;
+}

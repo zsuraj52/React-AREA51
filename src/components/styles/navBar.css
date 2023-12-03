@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.br{
+    width: 80%;
+    margin: auto;
+}
+
+.me-5{
+    border-radius: 30px;
+}
+
+.style-1:hover{
+    cursor: pointer;
+}
+.text-warning{
+    letter-spacing: 3px;
+}
+
+.navbar-brand{
+    font-family: 'Michroma', sans-serif;
+}
+
+.navbar-brand span {
+    font-weight: bold;
+    font-size: 35px;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+
+.bg-box img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.navbar-nav {
+    padding-left: 15%;
+}
+
+.nav-item {
+    color: #ffffff;
+    padding: 5px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.nav-link{
+    color: #ffffff;
+    padding: 5px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.nav-data {
+    color: #ffffff;
+}
+
+.nav-data:hover {
+    color: #ffbe33;
+    cursor: pointer;
+}
+
+.order_online{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.order_online:hover {
+    background-color: #ffbe33;
+    color: #ffffff;
+}
+
+.footer{
+    position: fixed;
+    bottom: 5%;
+    width :18.5%
+}
+
+.text-dark :hover{
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+.heigthAuto{
+    height: auto;
+}
+
+.bg-darks{
+    background-color: #222831;
+}

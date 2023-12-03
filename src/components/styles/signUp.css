@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+}
+
+.register{
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    margin: 11rem;
+}
